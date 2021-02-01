@@ -13,7 +13,8 @@ public class ProjetoJava1 {
 		
 		System.out.println("Bem-vinde ao Mundo Melhor!\n");
 		System.out.print("Informe seu nome: ");
-		nome= ler.next();
+		nome= ler.nextLine();
+
 		System.out.println("\n");
 		
 		System.out.println("Os Objetivos de Desenvolvimento Sustentável (ODS) da Organização das Nações Unidas (ONU)  \npertecem a uma agenda mundial de propósitos estabelecidos durante a Cúpula das Nações Unidas sobre\no Desenvolvimento Sustentável, em setembro de 2015.\r\n"
